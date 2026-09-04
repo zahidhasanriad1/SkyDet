@@ -9,7 +9,7 @@ url: "https://arxiv.org/abs/2608.07382"
 license: MIT
 authors:
   - family-names: Riad
-    given-names: "Md. Zahid Hasan"
+    given-names: "Md Zahid Hasan"
     affiliation: "Green University of Bangladesh"
     email: "201002313@student.green.ac.bd"
   - family-names: Ovi
@@ -21,7 +21,7 @@ preferred-citation:
   title: "SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline"
   authors:
     - family-names: Riad
-      given-names: "Md. Zahid Hasan"
+      given-names: "Md Zahid Hasan"
     - family-names: Ovi
       given-names: "Md Sultanul Islam"
   year: 2026

@@ -113,6 +113,7 @@ skysealand-coco/
 ├── scripts/
 │   ├── prepare_notebook.py
 │   └── validate_notebook.py
+├── CITATION.bib
 ├── CITATION.cff
 ├── LICENSE
 └── requirements.txt
@@ -129,14 +130,13 @@ If SkySeaLand or SkyDet supports your work, please cite the manuscript:
 ```bibtex
 @article{riad2026skysealand,
   title   = {SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline},
-  author  = {Riad, Md. Zahid Hasan and Ovi, Md Sultanul Islam},
+  author  = {Riad, Md Zahid Hasan and Ovi, Md Sultanul Islam},
   journal = {arXiv preprint arXiv:2608.07382},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2608.07382}
+  year    = {2026}
 }
 ```
 
-GitHub's **Cite this repository** action is also enabled through [CITATION.cff](CITATION.cff).
+GitHub's **Cite this repository** action is enabled through [CITATION.cff](CITATION.cff), and the canonical BibTeX entry is available as [CITATION.bib](CITATION.bib).
 
 ## Responsible use and limitations
 
