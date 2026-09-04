@@ -1,0 +1,40 @@
+# Local research notes and source artifacts retained outside the public tree
+/SkySeaLand_result_sheet.md
+/2608.07382v1.pdf
+/fig1.pdf
+/skydet-skysealand.ipynb
+
+# Generated and temporary artifacts
+/tmp/
+/outputs*/
+/runs/
+/wandb/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environments and editors
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

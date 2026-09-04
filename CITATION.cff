@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use SkySeaLand or SkyDet, please cite the manuscript below."
+title: "SkyDet"
+type: software
+version: 1.0.0
+date-released: 2026-08-07
+repository-code: "https://github.com/zahidhasanriad1/SkyDet"
+url: "https://arxiv.org/abs/2608.07382"
+license: MIT
+authors:
+  - family-names: Riad
+    given-names: "Md. Zahid Hasan"
+    affiliation: "Green University of Bangladesh"
+    email: "201002313@student.green.ac.bd"
+  - family-names: Ovi
+    given-names: "Md Sultanul Islam"
+    affiliation: "George Mason University"
+    email: "movi@gmu.edu"
+preferred-citation:
+  type: article
+  title: "SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline"
+  authors:
+    - family-names: Riad
+      given-names: "Md. Zahid Hasan"
+    - family-names: Ovi
+      given-names: "Md Sultanul Islam"
+  year: 2026
+  journal: "arXiv"
+  identifiers:
+    - type: other
+      value: "arXiv:2608.07382"
+  url: "https://arxiv.org/abs/2608.07382"

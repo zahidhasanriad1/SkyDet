@@ -1,0 +1,11 @@
+# Reference notebook dependencies. CUDA-enabled PyTorch builds may require
+# installation from the platform-specific index at https://pytorch.org/.
+torch>=2.4,<3.0
+torchvision>=0.19,<1.0
+numpy>=1.26,<3.0
+pandas>=2.0,<3.0
+matplotlib>=3.8,<4.0
+opencv-python-headless>=4.9,<5.0
+albumentations>=2.0,<3.0
+pycocotools>=2.0.7,<3.0
+jupyterlab>=4.0,<5.0

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Dataset access
+    url: https://doi.org/10.17632/d42n3cp86p.3
+    about: Download the fixed SkySeaLand release from Mendeley Data.
+  - name: Paper
+    url: https://arxiv.org/abs/2608.07382
+    about: Read the manuscript before opening questions about reported results.
