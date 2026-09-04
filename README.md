@@ -4,7 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.07382-b31b1b.svg)](https://arxiv.org/abs/2608.07382)
 [![Dataset](https://img.shields.io/badge/dataset-Mendeley%20Data-00827c.svg)](https://doi.org/10.17632/d42n3cp86p.3)
-[![Kaggle](https://img.shields.io/badge/Kaggle-SkySeaLand-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand-coco)
+[![Kaggle](https://img.shields.io/badge/Kaggle-SkySeaLand-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand)
 [![License: MIT](https://img.shields.io/badge/code%20license-MIT-2ea44f.svg)](LICENSE)
 [![Notebook check](https://github.com/zahidhasanriad1/SkyDet/actions/workflows/quality.yml/badge.svg)](https://github.com/zahidhasanriad1/SkyDet/actions/workflows/quality.yml)
 
@@ -59,7 +59,7 @@ See the [paper](paper/SkySeaLand_SkyDet_arXiv_2608.07382v1.pdf) for the complete
 | Test | 127 | 2,075 | 553 | 334 | 798 | 390 |
 | **Total** | **1,307** | **19,101** | **4,847** | **3,674** | **6,936** | **3,644** |
 
-Download the fixed release from [Mendeley Data](https://doi.org/10.17632/d42n3cp86p.3) or [Kaggle](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand-coco). Dataset details, directory conventions, and licensing notes are documented in [docs/DATASET.md](docs/DATASET.md).
+Download the fixed release from [Mendeley Data](https://doi.org/10.17632/d42n3cp86p.3) or [Kaggle](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand). Dataset details, directory conventions, and licensing notes are documented in [docs/DATASET.md](docs/DATASET.md).
 
 ## Quick start
 

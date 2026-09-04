@@ -44,7 +44,7 @@ The release includes:
 ## Access
 
 - [Mendeley Data, DOI 10.17632/d42n3cp86p.3](https://doi.org/10.17632/d42n3cp86p.3)
-- [Kaggle: SkySeaLand COCO](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand-coco)
+- [Kaggle: SkySeaLand](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand)
 
 ## Intended uses
 

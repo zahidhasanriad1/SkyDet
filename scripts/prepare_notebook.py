@@ -12,7 +12,7 @@ INTRO = """# SkyDet on SkySeaLand
 Reference implementation for the SkyDet development pipeline on the four-class SkySeaLand satellite dataset.
 
 - Paper: [arXiv:2608.07382](https://arxiv.org/abs/2608.07382)
-- Dataset: [Mendeley Data](https://doi.org/10.17632/d42n3cp86p.3) and [Kaggle](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand-coco)
+- Dataset: [Mendeley Data](https://doi.org/10.17632/d42n3cp86p.3) and [Kaggle](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand)
 - Classes: `airplane`, `boat`, `car`, `ship`
 
 > **Artifact note:** this notebook preserves a 100-epoch development configuration. The manuscript reports the finalized 150-epoch reference run. See [`docs/REPRODUCIBILITY.md`](../docs/REPRODUCIBILITY.md) before comparing metrics.
